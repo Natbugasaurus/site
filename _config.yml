@@ -16,7 +16,7 @@
 title: Nathaniel Bott
 email: nat@bitlink.com.au
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a game designer/coder/educator/crazy kinda person.
+  I'm a game designer/coder/educator kinda person.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://natbott.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mr_natbug
